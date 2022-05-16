@@ -1,0 +1,22 @@
+body{
+    background-color: #50696e;
+    color: #dde0d4;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    margin: 50px;
+}
+
+h1{
+    font-size: 100px;
+}
+
+.btn{
+    width: 200px;
+    font-size: 35px;
+    border-radius: 10px;
+}
